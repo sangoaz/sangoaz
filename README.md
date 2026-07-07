@@ -28,17 +28,17 @@ Ce projet couvre l'ensemble du cycle : conception de l'API, modélisation des do
 
 #### Aperçu:
 <img
-  src="https://raw.githubusercontent.com/sangoaz/GLF-auto-Frontend/main/images/Accueil.png"
+  src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Accueil_GLF_Auto.png"
   width="900"
 />
 
 <img
-  src="https://raw.githubusercontent.com/sangoaz/GLF-auto-Frontend/main/images/Dashboard_Admin.png"
+  src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Dashboard_Admin_GLF_Auto.png"
   width="900"
 />
 
 <img
-  src="https://raw.githubusercontent.com/sangoaz/GLF-auto-Frontend/main/images/Gestion_Vehicule.png"
+  src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Gestion_Vehicule_GLF_Auto.png"
   width="900"
 />
 
