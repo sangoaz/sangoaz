@@ -26,6 +26,9 @@ Ce projet couvre l'ensemble du cycle : conception de l'API, modélisation des do
 - **Gestion de fichiers**
 - **Architecture frontend/backend**
 
+#### Aperçu:
+![Accueil](GLF-auto-Frontend/tree/main/images)
+
 ---
 
 ### 🚙 Car Fleet Management — API de gestion de flotte multi-entreprises
