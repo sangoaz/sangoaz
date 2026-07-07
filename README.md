@@ -61,6 +61,12 @@ Le projet illustre une problématique proche de l'intégration de systèmes d'en
 - **Tests**
 - **PostgreSQL**
 
+#### Aperçu:
+<img
+  src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Car-Fleet_Managment_docs.png"
+  width="750"
+/>
+
 ---
 
 ### 🎮 Brian's Buzzer — Application temps réel (WebSockets - en production)
