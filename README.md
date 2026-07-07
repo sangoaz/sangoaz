@@ -29,17 +29,17 @@ Ce projet couvre l'ensemble du cycle : conception de l'API, modélisation des do
 #### Aperçu:
 <img
   src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Accueil_GLF_Auto.png"
-  width="900"
+  width="750"
 />
 
 <img
   src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Dashboard_Admin_GLF_Auto.png"
-  width="900"
+  width="750"
 />
 
 <img
   src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Gestion_Vehicule_GLF_Auto.png"
-  width="900"
+  width="750"
 />
 
 
@@ -49,7 +49,7 @@ Ce projet couvre l'ensemble du cycle : conception de l'API, modélisation des do
 
 API backend pour la gestion d'une flotte de véhicules : suivi des entretiens, des pleins de carburant, alertes automatiques de maintenance. Architecture **multi-tenant** (plusieurs entreprises isolées) avec un système de **rôles et permissions** fin par ressource.
 
-- - **Tests** : Pytest (tests automatisés couvrant les principaux cas métier)
+- **Tests** : Pytest (tests automatisés couvrant les principaux cas métier)
 - **Stack** : FastAPI, SQLModel/SQLAlchemy, PostgreSQL, Pydantic
 - **Dépôt** : [github.com/sangoaz/Car-Fleet-Managment](https://github.com/sangoaz/Car-Fleet-Managment)
 
@@ -80,20 +80,16 @@ Ce projet met en œuvre une architecture temps réel basée sur WebSockets perme
 - **Gestion d'état**
 
 #### Aperçu:
-<img
-  src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Brian's_Buzzer_Host_Page.png"
-  width="900"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Brian's_Buzzer_Buzz_player.png"
-  width="400"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Brian's_Buzzer_Buzz_Player_inactivate.png"
-  width="400"
-/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Brian's_Buzzer_Host_Page.png" width="450">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Brian's_Buzzer_Buzz_player.png" width="250">
+    </td>
+  </tr>
+</table>
 
 ---
 
