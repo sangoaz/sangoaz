@@ -79,6 +79,22 @@ Ce projet met en œuvre une architecture temps réel basée sur WebSockets perme
 - **Synchronisation**
 - **Gestion d'état**
 
+#### Aperçu:
+<img
+  src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Brian's_Buzzer_Host_Page.png"
+  width="900"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Brian's_Buzzer_Buzz_player.png"
+  width="900"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/sangoaz/sangoaz/main/images/Brian's_Buzzer_Buzz_Player_inactivate.png"
+  width="900"
+/>
+
 ---
 
 ## Autres projets
