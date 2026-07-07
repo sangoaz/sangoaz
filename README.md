@@ -27,7 +27,11 @@ Ce projet couvre l'ensemble du cycle : conception de l'API, modélisation des do
 - **Architecture frontend/backend**
 
 #### Aperçu:
-![Accueil](GLF-auto-Frontend/tree/main/images)
+![Accueil](GLF-auto-Frontend/tree/main/images/Accueil.png)
+
+![Administration](GLF-auto-Frontend/tree/main/images/Dashboard_Admin.png)
+
+![Gestion de Véhicule](GLF-auto-Frontend/blob/main/images/Gestion_Vehicule.png)
 
 ---
 
